@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dEQP README
 ===========
 
@@ -21,3 +22,6 @@ Khronos OpenGL / OpenGL ES Conformance Tests
 
 This repository includes Khronos OpenGL / OpenGL ES CTS under `external/openglcts` directory.
 For more information see [OpenGL / OpenGL ES CTS README](external/openglcts/README.md).
+=======
+# khronos-cts
+>>>>>>> 07ac2362e69289298f8ee72cffdacdb8cb3ee812
